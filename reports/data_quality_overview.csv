@@ -1,0 +1,12 @@
+metric,value
+raw_rows,45211
+raw_columns,17
+cleaned_rows,45211
+cleaned_columns,17
+exact_duplicates_found,0
+exact_duplicates_removed,0
+raw_missing_cells,0
+cleaned_missing_cells,0
+explicit_unknown_values,52124
+non_subscribers,39922
+subscribers,5289
