@@ -1,0 +1,2 @@
+total_clients,subscribers,estimated_subscription_rate_percentage,ci_lower_percentage,ci_upper_percentage,confidence_level,method
+45211,5289,11.698480458295547,11.405468024851945,11.998001095919115,0.95,Wilson score interval

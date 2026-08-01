@@ -1,0 +1,4 @@
+comparison,group_a,group_b,group_a_size,group_b_size,group_a_subscribers,group_b_subscribers,group_a_rate_percentage,group_b_rate_percentage,difference_percentage_points,ci_lower_percentage_points,ci_upper_percentage_points,confidence_level
+Previous success vs other outcomes,Previous outcome: success,Other previous outcomes,1511,43700,978,4311,64.72534745201854,9.864988558352403,54.86035889366613,52.4349274653475,57.285790321984756,0.95
+Cellular vs unknown contact,Cellular contact,Unknown contact,29285,13020,4369,530,14.918900460986853,4.070660522273426,10.848239938713428,10.317471105681097,11.379008771745758,0.95
+One campaign contact vs multiple contacts,One campaign contact,Multiple campaign contacts,17544,27667,2561,2728,14.597583219334245,9.860122167202805,4.73746105213144,4.107875838515545,5.367046265747336,0.95
