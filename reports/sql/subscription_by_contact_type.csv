@@ -1,0 +1,4 @@
+contact,client_count,subscriber_count,subscription_rate,average_call_duration_seconds
+cellular,29285,4369,14.92,263.01
+telephone,2906,390,13.42,235.37
+unknown,13020,530,4.07,252.34

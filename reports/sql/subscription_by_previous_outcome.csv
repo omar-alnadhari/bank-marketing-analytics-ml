@@ -1,0 +1,5 @@
+previous_outcome,client_count,subscriber_count,subscription_rate,average_previous_contacts
+success,1511,978,64.73,3.08
+other,1840,307,16.68,4.01
+failure,4901,618,12.61,2.9
+unknown,36959,3386,9.16,0.0
