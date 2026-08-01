@@ -1,0 +1,2 @@
+selection_metric,best_average_precision,std_average_precision,mean_roc_auc,std_roc_auc,mean_balanced_accuracy,mean_precision,mean_recall,mean_f1,number_of_candidates,number_of_folds
+average_precision,0.3806309791300972,0.01208450304999317,0.7339434757432028,0.001576428625820849,0.6767562845348476,0.2919194365283589,0.5216243674657601,0.3740839662367678,16,5

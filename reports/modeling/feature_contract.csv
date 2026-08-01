@@ -1,0 +1,20 @@
+feature,source_or_derived,primary_model_status,model_representation,reason
+age,source,included,numeric,Customer attribute available before the campaign; requires fairness review.
+job,source,included,categorical,Customer attribute available before the campaign.
+marital,source,included,categorical,Available before the campaign; requires fairness review.
+education,source,included,categorical,Customer attribute available before the campaign.
+default,source,included,categorical,Existing financial-status information.
+balance,source,included,numeric,Existing account information available before campaign contact.
+housing,source,included,categorical,Existing financial-obligation information.
+loan,source,included,categorical,Existing financial-obligation information.
+contact,source,excluded,not used,Current-campaign execution information.
+day,source,excluded,not used,Current-campaign execution date.
+month,source,excluded,not used,Current-campaign execution timing.
+duration,source,excluded,not used,Known only after the call ends; temporal data leakage.
+campaign,source,excluded,not used,Current-campaign contact count may accumulate after the targeting decision.
+pdays,source,transformed,not used directly,Sentinel value -1 is separated from elapsed days.
+previous,source,included,numeric,Historical campaign-contact count.
+poutcome,source,included,categorical,Historical campaign outcome.
+previously_contacted,derived,included,categorical,Separates no prior contact from valid pdays values.
+pdays_since_previous_contact,derived,included,numeric,Elapsed days only for previously contacted clients.
+negative_balance,derived,included,categorical,Captures whether the account balance is negative.

@@ -1,0 +1,2 @@
+test_records,test_subscribers,positive_class_prevalence,roc_auc,average_precision,brier_score,log_loss
+9043,1058,0.11699657193409267,0.7381624690907929,0.3901679709279138,0.17398578398276884,0.5357305078065482

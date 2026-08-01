@@ -1,0 +1,11 @@
+{
+  "number_of_folds": 5,
+  "oof_f1": 0.40705241983197255,
+  "oof_f2": 0.4067347710934544,
+  "oof_precision": 0.4075829383886256,
+  "oof_recall": 0.40652328054833375,
+  "predicted_positive_percentage": 11.667772616677727,
+  "selection_rule": "maximize_oof_f1",
+  "test_set_used": false,
+  "threshold": 0.5950745949144313
+}

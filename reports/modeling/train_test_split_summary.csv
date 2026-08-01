@@ -1,0 +1,4 @@
+split,record_count,non_subscribers,subscribers,subscription_rate_percentage
+full_dataset,45211,39922,5289,11.6985
+train,36168,31937,4231,11.6982
+test,9043,7985,1058,11.6997

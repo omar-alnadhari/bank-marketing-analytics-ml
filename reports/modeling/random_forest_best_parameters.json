@@ -1,0 +1,9 @@
+{
+  "classifier__class_weight": "balanced_subsample",
+  "classifier__max_depth": 10,
+  "classifier__max_features": 0.5,
+  "classifier__max_samples": null,
+  "classifier__min_samples_leaf": 10,
+  "classifier__min_samples_split": 10,
+  "classifier__n_estimators": 450
+}

@@ -1,0 +1,3 @@
+feature_group,features,missing_value_strategy,encoding_or_scaling,notes
+numerical,"age, balance, previous, pdays_since_previous_contact",Median imputation learned within each training fold,StandardScaler learned within each training fold,A missingness indicator is added for pdays_since_previous_contact.
+categorical,"job, marital, education, default, housing, loan, poutcome, previously_contacted, negative_balance",Most-frequent imputation learned within each training fold,OneHotEncoder with handle_unknown='ignore',Unseen categories in validation or test data do not cause a prediction failure.
